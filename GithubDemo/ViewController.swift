@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
     print("develop branch changes")
+    print("CHanges in develop branch to see how conflict is solved")
     }
 
 
